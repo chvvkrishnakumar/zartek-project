@@ -65,7 +65,7 @@ class Home extends Component {
       </div>
     ) : (
       <div className="loader">
-        <Loader type="spinner" color="blue" />
+        <Loader type="spinner" color="blue" height="50" width="50" />
       </div>
     )
   }
