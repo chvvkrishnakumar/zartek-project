@@ -1,0 +1,15 @@
+.ul {
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+  width: 100vw;
+}
+hr {
+  width: 90vw;
+}
+.loader {
+  height: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
